@@ -1,0 +1,2 @@
+# Tags: debug-amd64
+FROM gcr.io/distroless/cc-debian9:debug-amd64
