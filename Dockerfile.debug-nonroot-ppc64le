@@ -1,2 +1,2 @@
-# Tags: debug-nonroot-ppc64le
+# Tags:  debug-nonroot-ppc64le
 FROM gcr.io/distroless/cc-debian9:debug-nonroot-ppc64le
