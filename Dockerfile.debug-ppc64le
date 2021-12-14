@@ -1,2 +1,0 @@
-# Tags:  debug-ppc64le
-FROM gcr.io/distroless/cc-debian9:debug-ppc64le

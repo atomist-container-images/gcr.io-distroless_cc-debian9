@@ -1,5 +1,0 @@
-# Tags:  1e4a8bb3ad03f71b572cbcb3bbc25f3fd8d0ff14, 448023989820924de33f8ac2c94bc7f6cdfd4fe5, 84e71ef9eda0dd498687aa306e4a812ac477a8f8, c66b88e005d1b7386397738db3d4d4fb5aef02ac
-FROM gcr.io/distroless/cc-debian9:1e4a8bb3ad03f71b572cbcb3bbc25f3fd8d0ff14
-FROM gcr.io/distroless/cc-debian9:448023989820924de33f8ac2c94bc7f6cdfd4fe5
-FROM gcr.io/distroless/cc-debian9:84e71ef9eda0dd498687aa306e4a812ac477a8f8
-FROM gcr.io/distroless/cc-debian9:c66b88e005d1b7386397738db3d4d4fb5aef02ac
